@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ bernapas()
+comment0.text=\r\n\ Method\ kongkrit\ bernapas\r\n\ \r\n
+comment1.params=
+comment1.target=void\ makan()
+comment1.text=\r\n\ Method\ kongkrit\ makan\r\n\ \r\n
+comment2.params=
+comment2.target=void\ berjalan()
+comment2.text=\r\n\ Method\ abstract\ berjalan\ yg\ wajib\ di\ override\ oleh\ subkelas\r\n\ \r\n
+numComments=3
